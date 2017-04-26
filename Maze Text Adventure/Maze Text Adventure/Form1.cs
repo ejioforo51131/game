@@ -25,6 +25,7 @@ namespace Maze_Text_Adventure
         //using the enum data type created for the object position
         private position _objPosition;
         //just trying to make a change
+
         public Form1()
         {
             InitializeComponent();
