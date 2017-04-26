@@ -1,0 +1,28 @@
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe.config
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\girl fighter.png
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.pdb
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.csprojResolveAssemblyReference.cache
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze_Text_Adventure.Form1.resources
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze_Text_Adventure.Properties.Resources.resources
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.csproj.GenerateResource.Cache
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.exe
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.pdb
+C:\Users\ejiof\Desktop\C# Assignments\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\villan girl.png
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe.config
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.exe
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.pdb
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\girl fighter.png
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\villan girl.png
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.pdb
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.csprojResolveAssemblyReference.cache
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze_Text_Adventure.Form1.resources
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze_Text_Adventure.Properties.Resources.resources
+E:\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.csproj.GenerateResource.Cache
+E:\C# visual studio\Tutorial 8\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe.config
+E:\C# visual studio\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.exe
+E:\C# visual studio\Tutorial 8\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.pdb
+E:\test repo\game\Maze Text Adventure\Maze Text Adventure\bin\Debug\Maze Text Adventure.exe.config
+E:\test repo\game\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.exe
+E:\test repo\game\Maze Text Adventure\Maze Text Adventure\obj\Debug\Maze Text Adventure.pdb
